@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PESELValidatorTest", "PESELValidatorTest\PESELValidatorTest.csproj", "{58662193-8A1A-46E4-9B74-234990EE975D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PESELValidator", "PESELValidator\PESELValidator.csproj", "{A76C6A47-177F-49A8-9A2B-98659B7BB437}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58662193-8A1A-46E4-9B74-234990EE975D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58662193-8A1A-46E4-9B74-234990EE975D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58662193-8A1A-46E4-9B74-234990EE975D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58662193-8A1A-46E4-9B74-234990EE975D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A76C6A47-177F-49A8-9A2B-98659B7BB437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A76C6A47-177F-49A8-9A2B-98659B7BB437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A76C6A47-177F-49A8-9A2B-98659B7BB437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A76C6A47-177F-49A8-9A2B-98659B7BB437}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {669FC2D0-FA02-4355-BE10-F2B731DFB972}
+	EndGlobalSection
+EndGlobal
